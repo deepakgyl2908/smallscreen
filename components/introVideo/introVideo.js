@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactPlayer from 'react-player/lazy';
 
-import styles from './IntroVideo.module.css';
+import styles from './introVideo.module.css';
 
 class IntroVideo extends React.Component {
     render() {
