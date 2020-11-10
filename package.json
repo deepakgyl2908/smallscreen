@@ -1,0 +1,25 @@
+{
+  "name": "small-screen",
+  "version": "1.0.0",
+  "description": "official website of small screen",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-player": "^2.6.2",
+    "react-slick": "^0.27.13",
+    "reactstrap": "^8.7.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "vintagewebdesigners",
+  "license": "ISC"
+}
